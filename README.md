@@ -1,4 +1,4 @@
-## CTF Player | Penetration Tester | Blogger
+## Mechanics Enthusiast | Penetration Tester | Blogger 
 
 Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and continuous learning in the ever-evolving world of technology.
 
@@ -6,7 +6,6 @@ Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and c
 - 🌱 **Learning:** Python, Bash, C & Web Pentesting + AD
 - 👯 **Collaborating:** Open to play CTFs.
 - 📫 **Reach Me At:** [Discord - Hacknexus](https://discord.gg/hacknexus)
-- 📫 **Reach Me At:** Discord - 925155525899989063
 - ⚡ **Fun Fact:** I approach everything with a sense of fun and curiosity. Life's too short to be too serious!
 
 ### Languages and Tools:
@@ -56,15 +55,4 @@ Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and c
 - **WSL Seamless mode:** [WSL-Seamless](https://github.com/pentestfunctions/WSL-Seamless)
 - **Blue Ducky:** [Just a Python script lol](https://github.com/pentestfunctions/BlueDucky)
 
-### 📚 Essential Resources for Penetration Testers
-
-- **Cheat Sheets:** [Pentest Book by Six2dez](https://pentestbook.six2dez.com/)
-- **OSINT Tools:** [OSINT Framework](https://osintframework.com/)
-- **Hacking Techniques:** [HackTricks](https://book.hacktricks.xyz/)
-
-### 📺 Recommended YouTube Videos
-
-- [The Secret Step-by-Step Guide to Learn Hacking](https://www.youtube.com/watch?v=2TofunAI6fU)
-- [How to Pass Your CompTIA A+ Exams](https://www.youtube.com/watch?v=OS9MJjNK6gA&list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K)
-- [Tailored, Machine Learning-driven Password Guessing Attacks (DefCamp 2018)](https://www.youtube.com/watch?v=iK6ZbD6v9Gg)
 
