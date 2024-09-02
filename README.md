@@ -1,4 +1,6 @@
- ## Mechanics Enthusiast | Blogger | Penetration Tester 
+![Your Alt Text](assets/iko2.gif)
+ 
+   ## Mechanics Enthusiast | Blogger | Penetration Tester 
 
 Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and continuous learning in the ever-evolving world of technology.
 
