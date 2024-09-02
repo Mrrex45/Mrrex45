@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and c
 - 🌱 **Learning:** Python, Bash, C & Web Pentesting + AD
 - 👯 **Collaborating:** Open to play CTFs.
 - 📫 **Reach Me At:** [Discord - Hacknexus](https://discord.gg/hacknexus)
-- 📫 **Reach Me At:** [Discord - SecOps Rex](h4xx0rpr0digy)
+- 📫 **Reach Me At:** Discord - 925155525899989063
 - ⚡ **Fun Fact:** I approach everything with a sense of fun and curiosity. Life's too short to be too serious!
 
 ### Languages and Tools:
