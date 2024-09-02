@@ -1,4 +1,4 @@
-![Your Alt Text](assets/iko2.gif)
+![Your Alt Text](assests/iko2.gif)
  
    ## Mechanics Enthusiast | Blogger | Penetration Tester 
 
